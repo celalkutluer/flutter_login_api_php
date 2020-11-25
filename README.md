@@ -1,5 +1,4 @@
-# flutter_app_php_deneme
-kullanılan araçlar
+# Kullanılan araçlar
 MySQL
 PHP
 Flutter
